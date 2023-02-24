@@ -17,7 +17,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to bottom, #000000 0%, #606060 100%);
+    background: linear-gradient(to bottom, #000000 0%, #0010a3 100%);
     z-index: -1;
     animation: animateBackground 2s linear infinite;
 }
